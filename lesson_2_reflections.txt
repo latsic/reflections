@@ -2,3 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 - git created some files in the directory
 - mark it as a git repository
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- mark as ready for commit
+- needs to be commited, but not alone
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+- use stage, then commit before staging another file.
