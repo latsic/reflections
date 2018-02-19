@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Difftool did show me the difference
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Tracking the source of a bug.
+Analyzing why a change was made.
+At what time was a feature introduced.
+
+
+
+
+Diff Tools are important to spot differences in two files and fast.
+There are build in diff tools, for example in windows there is fc.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro:
+- Logical distinction
+- Better Collaboration
+- 
+
+Con
+- Can forget to commit
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+- Collection of interlinked files vs independent files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log:
+- view commits on a repo
+- get the id of a commit
+
+git diff:
+- compare two commits
+- which lines were changed/added/removed
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- as a start to learn more about webdev.
