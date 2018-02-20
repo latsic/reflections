@@ -16,3 +16,14 @@ What are some situations when branches would be helpful in keeping your history 
 - working on different version
 - bugfix branches
 - release branches
+
+How do the diagrams help you visualize the branch structure?
+- one can more easily follow the tree structure and see where branches were created, what commits were made on what branch, etc.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- A new commit which combines the commits from the two branches.
+- The commit has two parent commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- automatic: much faster, less work, almost aways works
+- manually: lots of work, 
